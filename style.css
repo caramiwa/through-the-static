@@ -1,0 +1,29 @@
+    body {
+        background-color: black;
+        color: white;
+        font-family: 'Libre Baskerville', serif;
+        text-align: center;
+    }
+
+    div {
+        margin-left: 25%;
+        width: 50;
+    }
+
+    .container {
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 50px;
+    }
+
+    img {
+        width: 100%;
+        border: 5px solid white;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
